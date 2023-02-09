@@ -1,0 +1,17 @@
+{
+    "name": "lucas/desafio",
+    "description": "criar uma APi que vai administrar as despesas",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Lucas\\Desafio\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LUk3VIT",
+            "email": "lucasdiass061@gmail.com"
+        }
+    ],
+    "require": {}
+}
